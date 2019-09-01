@@ -25,3 +25,5 @@ file.write('hello')
 # 关闭文件
 file.close()
 
+print('	修改完成')
+
