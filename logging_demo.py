@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-"""
-@Time     :2019/8/18
-@Name     :Zhang Wei
-@Contact  :1223242863@qq.com
-@File     :demo.py
-@Software :Pycharm
-"""
 
 import os
 import logging
